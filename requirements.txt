@@ -1,0 +1,11 @@
+selenium
+webdriver-manager
+python-docx
+python-dotenv
+requests
+Pillow
+lxml
+XlsxWriter
+pywin32
+colorama
+pip-audit
